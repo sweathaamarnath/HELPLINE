@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/ms_primary</item>
+        <item name="colorPrimaryDark">@color/ms_primary_dark</item>
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+
+    <style name="DrawerActivityTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#2196F3</item>
+        <item name="windowActionModeOverlay">true</item>
+
+    </style>
+
+    <style name="ThemeTranslucentsStatus" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionModeOverlay">true</item>
+    </style>
+
+</resources>

@@ -1,0 +1,180 @@
+<resources>
+    <string name="app_name">HelpLine Extant</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <array name="main_item_list">
+        <item>DTH</item>
+        <item>Broadband</item>
+        <item>Banks</item>
+        <item>MobileZone</item>
+        <item>MobileNetworks</item>
+        <item>Social-govt</item>
+        <item>E-shoppers</item>
+
+    </array>
+<array name="mobile_item_list">
+    <item>vodofone
+    </item>
+   <item >Airtel
+    </item>
+    <item>Aircel
+    </item>
+    <item>Bsnl
+   </item>
+   <item> DOCOMO
+    </item>
+    <item>Idea
+    </item>
+    <item>Tata Indicom
+    </item>
+</array>
+    <array name="dth_item_list">
+        <item>Tatasky
+            </item>
+        <item >Airtel
+            </item>
+        <item>videocon
+           </item>
+        <item>Reliance
+           </item>
+
+    </array>
+    <array name="bank_item_list">
+        <item>Hdfc
+            </item>
+        <item >IOB
+            </item>
+        <item>Canara
+            </item>
+        <item>Standard chattered
+           </item>
+        <item> Citibank
+           </item>
+        <item>Statebank
+           </item>
+        <item>Axis
+            </item>
+    </array>
+    <array name="broad_item_list">
+        <item>Bsnl
+            </item>
+        <item >ACT
+            </item>
+        <item>Airtel
+             </item>
+        <item>Reliance
+            </item>
+        <item> Tata Docomo
+            </item>
+
+    </array>
+    <array name="mozone_item_list">
+        <item>Nokia
+             </item>
+        <item >Micromax
+            </item>
+        <item>Motorola
+            </item>
+        <item>Samsung
+           </item>
+        <item> Apple
+           </item>
+        <item>karbonn
+            </item>
+        <item>Nexus
+           </item>
+        <item>
+            Sony
+
+        </item>
+        <item>
+            Microsoft
+
+        </item>
+    </array>
+    <array name="shop_item_list">
+        <item>Flipkart
+            </item>
+        <item >Amazon
+            </item>
+        <item>Jabong
+
+            </item>
+        <item>Myntra
+           </item>
+        <item> Snapdeal
+           </item>
+        <item>eBay
+            </item>
+        <item>ShoppersStop
+           </item>
+        <item>
+            rediff.com
+
+        </item>
+        <item>
+            Sulekha.com
+
+        </item>
+    </array>
+    <array name="socio_item_list">
+        <item>Accidents
+           </item>
+        <item >AIDS Helpline Service
+           </item>
+        <item>Ambulance
+           </item>
+        <item>Blood Bank Information Service
+            </item>
+        <item> Dial a Doctor
+            </item>
+        <item>Earthquake Helpline Service
+           </item>
+        <item>Eye Bank Information Service
+           </item>
+        <item>
+            Fire
+
+        </item>
+        <item>
+            Police Control Room
+
+        </item>
+        <item>
+            Traffic Help Line
+
+        </item>
+        <item>
+            Water Board
+
+        </item>
+        <item>
+            Women Crisis Response
+
+        </item>
+        <item>
+            Railway General Enquiry
+
+        </item>
+        <item>
+            Railway Reservation Enquiry
+
+
+        </item>
+        <item>Telephone STD complaints
+       </item>
+
+            <item>
+                Pet care
+
+            </item>
+
+
+    </array>
+
+    <string name="sample_long_text">Sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text \nSample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text \n\nSample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text </string>
+</resources>
